@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Kevinfz.github.io/static/css/main.e62208e4.css",
+    "main.js": "/Kevinfz.github.io/static/js/main.d2e8a804.js",
+    "static/media/Portofolio-web.pdf": "/Kevinfz.github.io/static/media/Portofolio-web.1a5ce0d0accc899d6a30.pdf",
+    "static/media/Kotak.jpeg": "/Kevinfz.github.io/static/media/Kotak.7216a9be1d5f20458b94.jpeg",
+    "static/media/testimonial3.png": "/Kevinfz.github.io/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/Kevinfz.github.io/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/Kevinfz.github.io/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/Kevinfz.github.io/index.html",
+    "main.e62208e4.css.map": "/Kevinfz.github.io/static/css/main.e62208e4.css.map",
+    "main.d2e8a804.js.map": "/Kevinfz.github.io/static/js/main.d2e8a804.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e62208e4.css",
+    "static/js/main.d2e8a804.js"
+  ]
+}
