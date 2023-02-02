@@ -1,7 +1,7 @@
 {
   "name": "web",
   "version": "0.1.0",
-  "homepage": "https://KevinFairuz.github.io/personal",
+  "homepage": "https://KevinFairuz.github.io/web-portofolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
